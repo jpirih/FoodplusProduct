@@ -83,9 +83,9 @@
     <div class="col-sm-6 bg-info">
         <h2>Navodila</h2>
         <p>
-            V obrazcu na laevi strani so izpisani trenutni podatki o izbranem izdelku,
-            če jih želiš spremeniti preprosto preppiši  trenutno vrednost v polju in
-            shrani sprremembe.
+            V obrazec na laevi strani vnesi pdoatke o novem izdelku
+            Datum lahko izbereš s koledarčka. Pri vnosu cene in teže  pazi
+            obvezna je decimalna .(pika) ne ,(vejica).
         </p>
         <p class="krepko">
             Obvezno morajo biti izpolnjena vsa polja v obrazcu.
